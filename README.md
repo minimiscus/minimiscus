@@ -1,5 +1,7 @@
-### Hi there 👋
+## I develop when I want to develop.
 
+### Contact Info:
+ Discord: `_ace._`
 <!--
 **minimiscus/minimiscus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
