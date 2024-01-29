@@ -1,7 +1,15 @@
-## got ace?
+# got ace?
 
-### Contact Info:
- Discord: `_ace._`
+**I'm a hobbyist developer trying to aim high. Currently learning Java and JavaScript.**
+
+You may contact me mainly through Discord via `@_ace._` but you may also contact on other social media although I cannot guarantee a quick reponse through them:
+
+<a href="https://twitter.com/minimiscus"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>&nbsp;
+<a href="https://reddit.com/u/minimiscus"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF5700?style=for-the-badge&logo=reddit&logoColor=white"></a>&nbsp;
+<a href="https://steamcommunity.com/id/minimiscus/"><img alt="Steam" src="https://img.shields.io/badge/Steam-2A475E?style=for-the-badge&logo=steam&logoColor=white"></a>&nbsp;
+
+[![wakatime](https://wakatime.com/badge/user/018d5275-65ff-41d6-93b3-e1b2bff2be78.svg?style=for-the-badge)](https://wakatime.com/@minimiscus)
+
 <!--
 **minimiscus/minimiscus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
