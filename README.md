@@ -2,7 +2,7 @@
 
 **Just a hobbyist developer trying to aim high. Currently learning Java and JavaScript.**
 
-You may contact me mainly through Discord via `@_ace._` but you may also contact me on other social media although I cannot guarantee a quick reponse through them:
+You may contact me mainly through Discord via `@minimiscus` but you may also contact me on other social media although I cannot guarantee a quick reponse through them:
 
 <a href="https://twitter.com/minimiscus"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>&nbsp;
 <a href="https://reddit.com/u/minimiscus"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF5700?style=for-the-badge&logo=reddit&logoColor=white"></a>&nbsp;
