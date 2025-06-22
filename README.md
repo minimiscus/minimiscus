@@ -1,10 +1,10 @@
 # the middle child.
 
-**Currently learning Java and JavaScript.**
+**java, javascript, typescript <sub>~~and vue.js~~</sub> traveller.**
 
-You may contact me mainly through Discord via [`@minimiscus`](https://discord.com/users/369216718137982988) for the quickest reponse, but you may also contact me on other social media although I cannot guarantee a quick response through them:
+ You may contact me mainly through Discord via [`@minimiscus`](https://discord.com/users/369216718137982988) for the quickest response, but you may also contact me on other social media, although I cannot guarantee a quick response through them:
 
-<a href="https://twitter.com/minimiscus"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>&nbsp;
+<a href="https://twitter.com/minimiscus"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"></a>&nbsp;
 <a href="https://reddit.com/u/minimiscus"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF5700?style=for-the-badge&logo=reddit&logoColor=white"></a>&nbsp;
 <a href="https://steamcommunity.com/id/minimiscus/"><img alt="Steam" src="https://img.shields.io/badge/Steam-2A475E?style=for-the-badge&logo=steam&logoColor=white"></a>&nbsp;
 
