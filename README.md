@@ -1,6 +1,6 @@
 # the middle child.
 
-i am a java, javascript, typescript <sub>~~and vue.js~~</sub> traveller.
+i am a learning java, javascript, typescript <sub>~~and vue.js~~</sub> traveller.
 
  You may contact me mainly through Discord via [`@minimiscus`](https://discord.com/users/369216718137982988) for the quickest response, but you may also contact me on other social media, although I cannot guarantee a quick response through them:
 
